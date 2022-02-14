@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-teste",
+  "version": "1.0.0",
+  "description": "aplicacao com testes de unidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Leonardo Souza",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
